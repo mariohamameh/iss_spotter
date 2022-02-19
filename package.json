@@ -1,5 +1,5 @@
 {
-  "name": "package.json",
+  "name": "iss-spotter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mariohamameh/iss_spotter.git"
+    "url": "git+https://github.com/Commoddity/iss-spotter.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mariohamameh/iss_spotter/issues"
+    "url": "https://github.com/Commoddity/iss-spotter/issues"
   },
-  "homepage": "https://github.com/mariohamameh/iss_spotter#readme",
+  "homepage": "https://github.com/Commoddity/iss-spotter#readme",
   "dependencies": {
-    "request": "^2.88.2"
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
   }
 }
